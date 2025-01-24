@@ -90,7 +90,7 @@ function aws-roles-available {
 ### ALIASES
 
 # General Linux
-alias ls="eza --icons=always"
+# alias ls="eza --icons=always"
 alias ..='cd ..'
 alias ...='cd ../..'
 alias .3='cd ../../..'
@@ -228,7 +228,7 @@ alias gp='git pull'
 alias gps='git push'
 
 # Brew (when Brew bugs out on macOS)
-alias brew='arch -x86_64 brew'
+# alias brew='arch -x86_64 brew'
 #alias binstall='arch -x86_64 brew install'
 alias binstall='arch -arm64 brew install'
 
